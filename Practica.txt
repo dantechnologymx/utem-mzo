@@ -5,6 +5,7 @@ Sared Garcia Perez 1
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Desarrollo Web Profesional
 =======
 Omar Perez Gutierrez
@@ -13,4 +14,11 @@ Omar Perez Gutierrez
 Omar Perez Gutierrez
 Jose Antonio Cuevas Navarro
 >>>>>>> 3c92633 (no message)
+<<<<<<< HEAD
 >>>>>>> origin/dnmo
+=======
+=======
+Omar Perez Gutierrez
+Jose Antonio Cuevas Navarro
+>>>>>>> origin/OPG
+>>>>>>> dnmo
