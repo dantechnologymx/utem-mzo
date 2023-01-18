@@ -1,5 +1,10 @@
 Dante Noe Magaña Ortiz
 <<<<<<< HEAD
+Daniel Zamora Tapia Nigga
+Hector Xavier Paez Garcia
+Luis Manuel Munguia Castillo
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Desarrollo Web Profesional
@@ -10,7 +15,11 @@ Omar Perez Gutierrez
 Omar Perez Gutierrez
 Jose Antonio Cuevas Navarro
 >>>>>>> 3c92633 (no message)
+<<<<<<< HEAD
 =======
 Omar Perez Gutierrez
 Jose Antonio Cuevas Navarro
 >>>>>>> origin/OPG
+=======
+>>>>>>> origin/dnmo
+>>>>>>> DZT
