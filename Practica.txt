@@ -1,5 +1,6 @@
 Dante Noe Magaña Ortiz
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Sared Garcia Perez
 
@@ -9,3 +10,6 @@ Julio Eduardo Arroyo García
 
 Sared Garcia Perez
 >>>>>>> c1b0133f834e1e27b3b08492bd776fd017091362
+=======
+Desarrollo Web Profesional
+>>>>>>> origin/dnmo
