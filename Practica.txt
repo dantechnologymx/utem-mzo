@@ -1,2 +1,6 @@
 Dante Noe Magaña Ortiz
+<<<<<<< HEAD
 Desarrollo Web Profesional
+=======
+Omar Perez Gutierrez
+>>>>>>> b645b14 (OPG)
