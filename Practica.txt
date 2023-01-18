@@ -1,6 +1,11 @@
 Dante Noe Magaña Ortiz
 <<<<<<< HEAD
+<<<<<<< HEAD
 Desarrollo Web Profesional
 =======
 Omar Perez Gutierrez
 >>>>>>> b645b14 (OPG)
+=======
+Omar Perez Gutierrez
+Jose Antonio Cuevas Navarro
+>>>>>>> 3c92633 (no message)
