@@ -1,3 +1,6 @@
 Dante Noe Magaña Ortiz
+<<<<<<< HEAD
 Helder David Aguilar Pulgarin
+=======
+>>>>>>> DZT
 Daniel Zamora Tapia
