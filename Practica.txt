@@ -1,2 +1,6 @@
 Dante Noe Magaña Ortiz
+<<<<<<< HEAD
 Eduardo ORtiz Oseguera
+=======
+Eduardo Ortiz Oseguera
+>>>>>>> EduardoOrtizOseguera
